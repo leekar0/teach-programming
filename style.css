@@ -1,0 +1,37 @@
+body {
+	background-color:  #FDF7FA;
+	padding:  20px;
+}
+
+
+h1 {
+	text-align:  center;
+	border-bottom: 4px solid #E2A3C7;
+	width:  180px;
+	margin: 0 auto;
+	margin-bottom:  40px;
+}
+
+.dogs-pictures-container {
+	width:  500px;
+	height:  420px;
+	margin:  0 auto;
+	border:  2px solid #60435F;
+	box-sizing: border-box;
+	margin-bottom:  40px;
+}
+
+button {
+	display:  block;
+	width:  250px;
+	min-height: 350x;
+	border:  none;
+	outline: none;
+	cursor:  pointer;
+	background-color: #F4D06F;
+	color: #392F5A;
+	font-weight:  bold;
+	font-size:  1.3em;
+	padding:  5px;
+	margin: 0 auto;
+}
